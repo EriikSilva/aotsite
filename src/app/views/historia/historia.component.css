@@ -1,0 +1,37 @@
+.bg{
+    background: url("../../../assets/muralhas3.png");
+}
+
+.historia{
+    font-size: 20px;
+}
+.card{
+    width: 400px;
+}
+
+
+h1{
+    text-align: center;
+}
+
+main{
+   padding-top: 30px;
+}
+
+.muralhas{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo{
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 30px;
+    width: 500px;
+    font-size: 30px;
+}
+
+

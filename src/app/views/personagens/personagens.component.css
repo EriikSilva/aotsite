@@ -1,0 +1,24 @@
+.content{
+    padding-top: 30px;
+    width:100%;
+}
+.header-image-eren {
+    background-image: url('../../../assets/eren.png');
+    background-size: cover;
+}
+
+.header-image-blindado{
+
+}
+
+
+.bg{
+    background-image: url("../../../assets/titans-originais.jpg");
+}
+
+
+img{
+    width:414px;
+    height: 300px;
+    
+}

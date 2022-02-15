@@ -1,0 +1,12 @@
+img{
+    width: 1080px;
+    height: 720px;
+}
+
+.bg{
+    background-image: url("../../../assets/bg.jpg");
+}
+
+.container{
+    padding-top: 32px;
+}

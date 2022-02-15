@@ -1,0 +1,45 @@
+footer{
+    width: 100%;
+    height: 84px;
+    margin-top: auto;
+    bottom: 0;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    display: block;
+    justify-content: center;
+
+   
+}
+
+.social{
+    display: flex;
+    margin: auto;
+}
+
+a svg{
+    margin-right: 32px;
+}
+
+
+.notas-desenvolvedor{
+    
+    font-size: 15px;
+    font-weight: 300;
+    display: flex;
+    justify-content: flex-end;
+
+} 
+
+.social{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    padding-top: 40px;
+    margin-right: 12px;
+}
