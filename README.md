@@ -1,27 +1,35 @@
 # Aotsite
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1, bootstrap and angular material.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+##PACKAGES TO INSTALL
+npm i bootstrap
+npm install ngx-bootstrap --save
+ng add @angular/material
+npm install @angular/flex-layout
+
+
+Nessa sequencia
+
 ## Code scaffolding
 
 Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
+##Pagina Principal
+![image](https://user-images.githubusercontent.com/61124602/154049881-306eef14-54c7-471a-959a-19573648c7c4.png)
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+##Personagens
 
-## Running unit tests
+![image](https://user-images.githubusercontent.com/61124602/154050437-c284296b-51ad-49a2-948f-6dccd1269477.png)
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Com cards do angular material e flex Layout
 
-## Running end-to-end tests
+##Temporadas
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+![image](https://user-images.githubusercontent.com/61124602/154050566-c0b1135f-1491-4f83-9c26-5c6baaaacff9.png)
 
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Com Carousel do ngx bootstrap com typescript
