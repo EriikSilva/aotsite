@@ -2,15 +2,17 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1, bootstrap and angular material.
 
+##PACKAGES TO INSTALL
+'npm i bootstrap'
+'npm install ngx-bootstrap --save'
+'ng add @angular/material'
+'npm install @angular/flex-layout'
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-##PACKAGES TO INSTALL
-npm i bootstrap
-npm install ngx-bootstrap --save
-ng add @angular/material
-npm install @angular/flex-layout
+
 
 
 Nessa sequencia
