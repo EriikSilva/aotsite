@@ -3,10 +3,11 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.1, bootstrap and angular material.
 
 ##PACKAGES TO INSTALL
-'npm i bootstrap'
-'npm install ngx-bootstrap --save'
-'ng add @angular/material'
-'npm install @angular/flex-layout'
+
+`npm i bootstrap`
+`npm install ngx-bootstrap --save'`
+`ng add @angular/material`
+`npm install @angular/flex-layout`
 
 ## Development server
 
